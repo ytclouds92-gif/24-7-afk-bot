@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "luminus_bot",
+    "username": "lapata_official_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Luminanetworkplay.aternos.me",
-    "port": 28721,
+    "ip": "lapatasmp-60004f.play.shulkerbox.com",
+    "port": 19132,
     "version": "1.20.1",
     "try-creative": false
   },
